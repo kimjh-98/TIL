@@ -1,3 +1,4 @@
 안녕하세요
 git config --global user.email "변경" 
 github 확인
+bash
